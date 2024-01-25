@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a64515b07c3e4d5ba9e1852094745426, type: 3}
+  m_Name: PlayerMoveConditionMerge
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: 619df050fc4b0da48870725abd560ef9, type: 2}
+    - {fileID: 11400000, guid: cafbbf39dbff8a14993c0f9937115b3e, type: 2}
+    - {fileID: 11400000, guid: 4f6457bb39bb6594fa2d2e7d499cfaa8, type: 2}
+    - {fileID: 11400000, guid: 7719ce9da27919e45b665fd9f0aa39f7, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: rules
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[_Game.DesignPattern.ConditionRule.ICondition,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

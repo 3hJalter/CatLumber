@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/FirstCutsceneHandler.cs.meta
+guid: 27e514a171bf6ed4384f36e83af8e65d
+========
+guid: 052f102260ab39f4ab8bc542bf85e1e1
+>>>>>>>> Hung:Assets/_Game/VinhLB/Scripts/UI/DailyRewardPopup.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

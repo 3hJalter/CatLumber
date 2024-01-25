@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c850232d-8269-40bc-87b4-089b62d077da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Grass Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Grass Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Grass Tool Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Settings/Grass Tool Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/Resources/L0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/Resources/L0.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/Resources/UI/UIScreen/Canvas_ScreenBuilding.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/Resources/UI/UIScreen/Canvas_ScreenBuilding.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/BladeGrassMeshSettings1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/BladeGrassMeshSettings1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/BladeGrassMeshSettings2.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/BladeGrassMeshSettings2.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/BuildingUnitDatabase.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/BuildingUnitDatabase.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/GlobalVolumeProfile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/GlobalVolumeProfile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/Anchor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/Anchor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/Base.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/Base.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/BladeGrass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/BladeGrass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/CursorIndicatorGrid.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/CursorIndicatorGrid.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/GhostInvalid.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/GhostInvalid.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/GhostValid.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/GhostValid.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/StylizedWater.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/StylizedWater.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/Transparent.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials/Transparent.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Meshes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Meshes/BladeGrassMesh1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Meshes/BladeGrassMesh1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Meshes/BladeGrassMesh3.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Meshes/BladeGrassMesh3.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Meshes/BladeGrassMesh5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Meshes/BladeGrassMesh5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Meshes/BladeGrassMeshNew.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Meshes/BladeGrassMeshNew.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Buildings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Buildings/Fence.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Buildings/Fence.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Buildings/HouseMain.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Buildings/HouseMain.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Buildings/StationFishing.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Buildings/StationFishing.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/GridBuildingManager.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/GridBuildingManager.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/UI/PlacedObjectItem.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/UI/PlacedObjectItem.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/FenceVisual.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/FenceVisual.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/HouseMainVisual.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/HouseMainVisual.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/RockShortVisual.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/RockShortVisual.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/StationFishingVisual.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/StationFishingVisual.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/TreeHighVisual.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/TreeHighVisual.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/TreeShortVisual.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Prefabs/Visuals/TreeShortVisual.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scenes/BuildingTest.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BladeGrassBakeSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BladeGrassBakeSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BladeGrassBaker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BladeGrassBaker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BuildingGhost.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BuildingGhost.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BuildingUnit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BuildingUnit.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BuildingUnitDatabaseSO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BuildingUnitDatabaseSO.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BuoyantObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/BuoyantObject.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Core.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Core/Grid.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Core/Grid.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/DepthTextureCamera.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/DepthTextureCamera.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Editor/BladeGrassBakeEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Editor/BladeGrassBakeEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Editor/EditorTools.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Editor/EditorTools.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/FPSCounter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/FPSCounter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/GerstnerWaveDisplacement.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/GerstnerWaveDisplacement.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/GrassTrampleFeature.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/GrassTrampleFeature.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/GrassTrampleObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/GrassTrampleObject.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/GridBuildingManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/GridBuildingManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/GridMapFileUtilities.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/GridMapFileUtilities.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Testing.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Testing.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/TransformExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/TransformExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/UI/BuildingItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/UI/BuildingItem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/UI/BuildingScreen.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/UI/BuildingScreen.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Utilities.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scripts/Utilities.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/BladeGrass.hlsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/BladeGrass.hlsl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/BladeGrass.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/BladeGrass.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/BladeGrassMeshBuilder.compute" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/BladeGrassMeshBuilder.compute.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/GrassTrample.hlsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/GrassTrample.hlsl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/NMGBladeGrassComputeHelpers.hlsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/NMGBladeGrassComputeHelpers.hlsl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/NMGBladeGrassGraphicsHelpers.hlsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Grass/NMGBladeGrassGraphicsHelpers.hlsl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/BlendedNormals.shadersubgraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/BlendedNormals.shadersubgraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/DepthFade.shadersubgraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/DepthFade.shadersubgraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/DistortUV.hlsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/DistortUV.hlsl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/GerstnerWaves.hlsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/GerstnerWaves.hlsl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/Lighting.hlsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/Lighting.hlsl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/Overlay.shadersubgraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/Overlay.shadersubgraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/PanningUV.shadersubgraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/PanningUV.shadersubgraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/RefractedUV.shadersubgraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/RefractedUV.shadersubgraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/ScenePosition.shadersubgraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/ScenePosition.shadersubgraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/StylizedWater.shadergraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Shaders/Water/StylizedWater.shadergraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/Distortion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/Distortion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/Foam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/Foam.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/IntersectionFoam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/IntersectionFoam.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/Normals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/Normals.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/PerlinNoise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/PerlinNoise.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/SolidNoise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Textures/SolidNoise.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Settings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Settings/URP.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Settings/URP.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Settings/URP_Renderer.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Game/_Settings/URP_Renderer.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AkilliMum/Samples/SRP/2dWeatherEffects/Materials/D2Fog.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AkilliMum/Samples/SRP/2dWeatherEffects/Materials/D2Fog.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Common Demo Assets/Kino Bloom/Bloom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Common Demo Assets/Kino Bloom/Bloom.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Demo TCP2 Cat URP Asset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Demo TCP2 Cat URP Asset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Hybrid Shader Demo Assets/Robot Standard.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Hybrid Shader Demo Assets/Robot Standard.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Attribute Processors.unitypackage.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Scenes/BuildingTest.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Drawers.unitypackage.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Editor Windows.unitypackage.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Sample - RPG Editor.unitypackage.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/VinhLB/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/LiberationSans SDF - Metalic Green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Resources/UI/UIScreen/Canvas_ScreenInGame.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Resources/UI/UIScreen/Canvas_ScreenInGame.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Materials/Shader Graphs_Grid 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Materials/Shader Graphs_Grid 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Materials/Shader Graphs_Grid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Materials/Shader Graphs_Grid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Model/3D model/Chars/DogLumber/texture/DogLumber.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Model/3D model/Chars/DogLumber/texture/DogLumber.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Model/3D model/Maps/MatTexGrass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Model/3D model/Maps/MatTexGrass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Model/3D model/Maps/MatTexModel.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Model/3D model/Maps/MatTexModel.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefabs/PfGrid/GridSurface/GroundSurface/MediuomGroundPf/MediumTile/MediumTile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/PfGrid/GridSurface/GroundSurface/MediuomGroundPf/MediumTile/MediumTile.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefabs/PfGrid/GridUnit/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/PfGrid/GridUnit/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Prefabs/PfGrid/GridUnit/TreeHigh.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Prefabs/PfGrid/GridUnit/TreeHigh.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/GameDemo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/GameDemo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scenes/MapEditor.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scenes/MapEditor.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_ScriptableObjects/DataSO/GridData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_ScriptableObjects/DataSO/GridData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/DataSO/GridData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/DataSO/GridData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/DesignPatterns/Pool/SimplePool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/DesignPatterns/Pool/SimplePool.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/GridMapDataGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/GridMapDataGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GameGridCell.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GameGridCell.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GameGridDataHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GameGridDataHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GridUnit/Base/GridUnit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GridUnit/Base/GridUnit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GridUnit/DynamicUnit/Chump/ChumpUnit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GridUnit/DynamicUnit/Chump/ChumpUnit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GridUnit/DynamicUnit/PlayerUnit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GridUnit/DynamicUnit/PlayerUnit.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GridUnit/GridUnitFunc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/InGame/GameGrid/GridUnit/GridUnitFunc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/Managers/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/Managers/LevelManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/UIs/Screen/InGameScreen.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/UIs/Screen/InGameScreen.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/UIs/Screen/MainMenuScreen.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/UIs/Screen/MainMenuScreen.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Scripts/Utilities/Grid/Grid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Scripts/Utilities/Grid/Grid.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/_Shader/Grid.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/_Shader/Grid.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_StandaloneWindows.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_StandaloneWindows.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ZYgIU5VArDh4HnzjEubB5On2lR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Merging Hoang/MergeTest",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c850232d-8269-40bc-87b4-089b62d077da" name="Changes" comment="" />
+      <created>1702604351278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702604351278</updated>
+      <workItem from="1702604351842" duration="403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

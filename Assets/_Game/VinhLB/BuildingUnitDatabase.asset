@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99e222fe40d2f864a8db2cb94ef1f335, type: 3}
+  m_Name: BuildingUnitDatabase
+  m_EditorClassIdentifier: 
+  BuildingUnitDataList:
+  - Id: 0
+    Name: Main House
+    Sprite: {fileID: 0}
+    Width: 2
+    Height: 2
+    Prefab: {fileID: -684823040248915490, guid: 4c4972374503a684ba75a09118924d31, type: 3}
+    Visual: {fileID: 8813881423227321945, guid: 8a631e6be2aa27346b512f7ab48e7cf6, type: 3}
+    PoolType: 50
+    BelowSurfaceType: 1
+    CheckAdjacentCells: 1
+    AdjacentSurfaceType: 1
+    MinAdjacentCells: 1
+  - Id: 1
+    Name: Fence
+    Sprite: {fileID: 0}
+    Width: 3
+    Height: 1
+    Prefab: {fileID: -5441964512500297059, guid: fd2f6663f9d4bd54c86f8293b86544b0, type: 3}
+    Visual: {fileID: 8525451917697680636, guid: 3cc63256be09e3949b2ea976b01f2f68, type: 3}
+    PoolType: 51
+    BelowSurfaceType: 1
+    CheckAdjacentCells: 0
+    AdjacentSurfaceType: 0
+    MinAdjacentCells: 0
+  - Id: 2
+    Name: Fishing Station
+    Sprite: {fileID: 0}
+    Width: 1
+    Height: 2
+    Prefab: {fileID: -5441964512500297059, guid: 07204eebc6a6cf6459a4188f1f724e0e, type: 3}
+    Visual: {fileID: 8525451917697680636, guid: e3d286b6b6e40c141af6559d06b05a64, type: 3}
+    PoolType: 52
+    BelowSurfaceType: 0
+    CheckAdjacentCells: 1
+    AdjacentSurfaceType: 1
+    MinAdjacentCells: 1
